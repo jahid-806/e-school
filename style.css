@@ -1,0 +1,126 @@
+ 
+body{
+     margin: 0;
+     font-family: 'Adamina', serif;
+ }
+ .top-part{
+     padding-top: 15px;
+     background-color: #e8fde8;
+     height: 500px;
+ }
+ .bg-light{
+    background-color: #e8fde8 !important;
+ }
+ .w-of-logo{
+     width: 65%;
+ }
+ .link-button{
+     padding: 8px 10px;
+     background-color: #05ad05;
+     border-radius: 20px;
+     text-align: center;
+     text-decoration: none;
+     color: white !important;
+ }
+ .link-button:hover{
+     text-decoration: none;
+ }
+ .section-two{
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+.name-highlited{
+    color: goldenrod;
+}
+.text-highlited{
+    color: green;
+    text-shadow: 1px 1px 3px green;
+}
+.header-text{
+    font-size: 50px;
+    text-shadow: 2px 2px 3px black;
+    font-weight: 700;
+}
+.box:hover{
+    box-shadow: 5px 5px  10px lightgray;
+}
+.card img{
+    width: 80% !important;
+    padding: 30px 10px;
+}
+.card-1{
+    border: none;
+    box-shadow: 5px 5px  10px lightgray;
+    margin-right: 10px;
+}
+.card-2{
+    border: none;
+    box-shadow: 5px 5px  10px lightgray;
+    margin-right: 10px;
+}
+.card-3{
+    border: none;
+    box-shadow: 5px 5px  10px lightgray;
+}
+.card:hover{
+    box-shadow: 5px 7px 15px rgb(146, 145, 145);
+}
+.box-heading{
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    margin-bottom: 4%;
+    margin-top: -2%;
+}
+.section-four{
+    height: 300px;
+}
+.img-width{
+    width: 10%;
+    height: 10%;
+}
+.bottom-of-box{
+    margin-top: 1%;
+    font-size: 17px;
+    font-weight: 500;
+}
+.i-img{
+    width: 55px;
+}
+.date{
+    font-size: 15px;
+    color: rgb(107, 104, 104);
+}
+.testimonial{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 5%;
+    text-shadow: 2px 2px 5px black;
+}
+.list-header{
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.list-item{
+    list-style-type: none;
+}
+.list-item li{
+   padding: 5px;
+}
+.list-item li a{
+    color: white;
+    text-decoration: none;
+ }
+.footer-section{
+    background-color:rgb(43, 43, 56);
+    padding-top: 3.5%;
+    color: white;
+}
+.f-section{
+    text-align: center;
+    font-size: 17px;
+    padding: 5px;
+    margin-top: 3.5%;
+}
